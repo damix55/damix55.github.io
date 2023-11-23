@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creating the perfect Kindle Clock"
-date:   2023-11-23 19:16:31 +0200
+date:   2023-11-22 19:16:31 +0200
 categories: python
 ---
 

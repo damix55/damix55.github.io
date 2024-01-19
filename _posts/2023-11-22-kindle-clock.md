@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Creating the perfect Kindle Clock"
-date:   2023-11-22 19:16:31 +0200
-categories: python
+title: Creating the perfect Kindle Clock
+date: 2023-11-22 19:16:31 +0200
+categories:
+  - python
+  - modding
 ---
 There are many guides on the web on how to convert your old Kindle into a clock or a weather station, but many of them rely on the integrated browser to display contents. This is a big limitation in my opinion, since you need an external device where you have to host a website that will diplayed on the Kindle. Moreover, the browser cannot be set on fullscreen mode and therefore the top bar will always be visible.
 

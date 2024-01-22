@@ -21,7 +21,7 @@
 title: dovico.dev
 email: me@dovico.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello world!
+  Hello! This is my blog/portfolio, and its currently work in progress!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dovico.dev"
 github_username:  damix55

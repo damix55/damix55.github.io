@@ -6,6 +6,7 @@ categories:
   - python
   - modding
 ---
+[GitHub](https://github.com/damix55/kindle-clock)
 
 ![xkcd Kindle](img/2023-11-22-kindle-clock/dashboard-old.png) 
 

@@ -8,7 +8,7 @@ categories:
 ---
 [GitHub](https://github.com/damix55/kindle-clock)
 
-![xkcd Kindle](img/2023-11-22-kindle-clock/dashboard-old.png) 
+![xkcd Kindle](/assets/2023-11-22-kindle-clock/dashboard-old.png) 
 
 There are many tutorials on the web on how to convert your old Kindle into a clock or a weather station, but many of them rely on the integrated browser to display contents. This is a big limitation in my opinion, since you need an external device where you have to host a website that will displayed on the Kindle. Moreover, the browser cannot be set on fullscreen mode and therefore the top bar will always be visible.
 
@@ -20,7 +20,7 @@ The MobileRead forum has a lot of mods to install on a jailbroken Kindle, in thi
 I will admit that i had this project *almost* ready for more than 2 years now (even though I've been using my Kindle as a desk clock since then). It also went through various iteration, I implemented different features and then scratched others, i reworked the whole codebase at least two times.
 But being the perfectionist I am, it took me this long to finally write an article about this project and finalize it.
 
-| ![xkcd Kindle](img/2023-11-22-kindle-clock/xkcd.png) | 
+| ![xkcd Kindle](/assets/2023-11-22-kindle-clock/xkcd.png) | 
 |:--:| 
 | *A Kindle displaying random comics from xkcd!* |
 
@@ -29,9 +29,10 @@ Keep in mind that this is still work in progress! I would like to develop this p
 Let's dive into it!
 
 ## The perfect dashboard
-| ![xkcd Kindle](img/2023-11-22-kindle-clock/main.png) | 
+| ![xkcd Kindle](/assets/2023-11-22-kindle-clock/main.png) | 
 |:--:| 
 | *I know I have a bad sense of humor, but this is how I use it daily.* |
+
 Work in progress!
 
 ## How to setup
@@ -98,7 +99,7 @@ Wait a few seconds and everything should hopefully work as expected!
 
 
 ## Some old iterations and concepts
-![xkcd Kindle](img/2023-11-22-kindle-clock/calendar.png) 
+![xkcd Kindle](/assets/2023-11-22-kindle-clock/calendar.png) 
 
 
 ## Sources

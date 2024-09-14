@@ -1,0 +1,234 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "c2ddd17a-d3aa-4010-931c-3d37c4c06f35",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "102px",
+        "type": "source",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Source",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "28fb628c-8b3c-4c46-86ec-efa00f895d76",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "source-file",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Source File",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "40773747-142a-4624-959f-11c0179a573f",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "301px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Title",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": "title"
+      },
+      {
+        "id": "a5996161-bf81-4029-bd54-f10ac006c50e",
+        "sortDir": "desc",
+        "isVisible": true,
+        "width": "177px",
+        "type": "date",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Date",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "ddmmyyyy",
+        "dateFormatSeparator": "/",
+        "hour12": false,
+        "includeTime": true,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": "date"
+      },
+      {
+        "id": "c052cfa2-8ae6-4258-ae4b-808676beff57",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "240px",
+        "type": "multi-tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Categories",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "55958696-5b4b-45bf-af6a-c2262ad52ea6",
+            "content": "python",
+            "color": "blue"
+          },
+          {
+            "id": "c8af9995-67e0-40d1-8342-4ce544d896ee",
+            "content": "modding",
+            "color": "pink"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": "categories"
+      },
+      {
+        "id": "95fe268f-14e0-47c5-847b-fa1053e52248",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "160px",
+        "type": "multi-tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Tags",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "c318eb45-6b09-4396-bb17-f86784ce99c0",
+            "content": "self-help",
+            "color": "blue"
+          },
+          {
+            "id": "ccb1e3f2-3fe2-469c-aec0-452b9705c7ee",
+            "content": "business",
+            "color": "green"
+          },
+          {
+            "id": "e4257519-c874-4a15-9984-423ec82d7fbe",
+            "content": "design",
+            "color": "pink"
+          },
+          {
+            "id": "c4a48b7a-9de9-4c96-bbdb-fd15ae020d3b",
+            "content": "psicology",
+            "color": "light gray"
+          },
+          {
+            "id": "7e3cd307-de38-4da9-89f3-929a772ae95f",
+            "content": "thriller",
+            "color": "yellow"
+          },
+          {
+            "id": "cc323966-e7e8-4b5e-b894-dc07ff9feb7a",
+            "content": "horror",
+            "color": "blue"
+          },
+          {
+            "id": "888ea05c-d9a4-44e2-b893-893a52de51b1",
+            "content": "anime",
+            "color": "light gray"
+          },
+          {
+            "id": "61e8cbab-4e6b-466e-8831-5665f0bbd8f3",
+            "content": "adventure",
+            "color": "gray"
+          },
+          {
+            "id": "967bbe47-05d2-4887-8ae5-89322fe3b6c9",
+            "content": "sci-fi",
+            "color": "pink"
+          },
+          {
+            "id": "4bbbe5eb-e885-4763-8f0f-7b98af3ceef2",
+            "content": "simulation",
+            "color": "green"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": "tags"
+      }
+    ],
+    "rows": [],
+    "filters": [],
+    "sources": [
+      {
+        "id": "5a12df48-e036-4e94-b2a9-8ceb4c667504",
+        "type": "folder",
+        "path": "_drafts",
+        "includeSubfolders": false
+      },
+      {
+        "id": "dc2c7d33-ef44-4a02-8056-c0ff122f7b81",
+        "type": "folder",
+        "path": "_posts",
+        "includeSubfolders": true
+      }
+    ],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": false
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.11"
+}

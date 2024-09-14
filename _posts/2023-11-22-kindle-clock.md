@@ -6,6 +6,8 @@ categories:
   - python
   - modding
 tags: []
+toc:
+  sidebar: left
 ---
 [GitHub](https://github.com/damix55/kindle-clock)
 
@@ -164,7 +166,7 @@ Now every time we send a picture to the bot, the Kindle will receive it, crop it
 Note that to avoid anyone messing with the bot, we can filter message by username, so that we are the only one allowed to send message to the bot.
 
 ### The angled cable
-For the charging cable, i wanted something that didn't get in the way. I opted for [this](https://aliexpress.com/item/1005003216764469.html) cable from AliExpress, which was perfect for the job. The cable has an angled Micro-USB connector, so that when you plug the Kindle in, the cable goes right behind the back of the device, providing a clean look to the project.
+For the charging cable, i wanted something that didn't get in the way. I opted for [this](https://aliexpress.com/item/1005003216764469.html) cable from AliExpress, which was perfect for the job. The cable has an angled Micro-USB connector, so that when you plug the Kindle in, the cable goes right behind the back of the device, proving a clean look to the project.
 
 ### The little details
 * The cardboard mounts

@@ -1,0 +1,139 @@
+{
+  "basics": {
+    "name": "Damiano Emanuele Dovico",
+    "label": "Software Developer",
+    "image": "",
+    "email": "me@dovico.dev",
+    "summary": "I am a Python specialist with expertise in web development and RPA, backed by a master s degree in Computer Science. I have a strong passion for technology and music. I thrive where creativity and problem solving intersect.<br>My natural curiosity leads me to explore new interests, experiment with new technologies, and learn about the inner workings of things.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/dovico/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beta 80 Group",
+      "position": "RPA Developer",
+      "startDate": "2022",
+      "endDate": "",
+      "highlights": [
+        "Development of Docker-containerized web applications integrating RPA automations, using Django and Flask frameworks.",
+        "Development of RPA solutions with technologies such as Automation Anywhere, UiPath, Power Automate and Python."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Università degli Studi di Milano-Bicocca",
+      "studyType": "Master's degree in Computer Science",
+      "startDate": "2019",
+      "endDate": "2022",
+      "score": "110/110 cum laude"
+    },
+    {
+      "institution": "Università degli Studi di Milano-Bicocca",
+      "studyType": "Bachelor's degree in Computer Science",
+      "startDate": "2016",
+      "endDate": "2019",
+      "score": "100/110"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "UiPath Certified Professional Advanced RPA Developer (UiARD)",
+      "date": "2023-04",
+      "issuer": "UiPath",
+      "url": "https://credentials.uipath.com/1a85cd57-73b1-4081-9cbe-2fe65249b28a",
+      "icon": "fa-solid fa-certificate"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming languages",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "Javascript",
+        "C#",
+        "Java",
+        "C/C++",
+        "R"
+      ]
+    },
+    {
+      "name": "Web development",
+      "icon": "fa-solid fa-globe",
+      "keywords": [
+        "Django",
+        "Flask",
+        "HTML",
+        "CSS",
+        "React",
+        "Spring"
+      ]
+    },
+    {
+      "name": "Operating systems",
+      "icon": "fa-solid fa-desktop",
+      "keywords": [
+        "Linux",
+        "Windows"
+      ]
+    },
+    {
+      "name": "Databases",
+      "icon": "fa-solid fa-database",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "SQLite"
+      ]
+    },
+    {
+      "name": "Technologies",
+      "icon": "fa-solid fa-tools",
+      "keywords": [
+        "Git",
+        "Docker",
+        "Machine learning",
+        "Generative AI",
+        "Arduino"
+      ]
+    },
+    {
+      "name": "RPA",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "Playwright",
+        "UiPath",
+        "Automation Anywhere",
+        "Power Automate"
+      ]
+    },
+    {
+      "name": "Digital graphics",
+      "icon": "fa-solid fa-paint-brush",
+      "keywords": [
+        "GIMP",
+        "Figma"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency",
+      "icon": ""
+    }
+  ],
+  "interests": [
+  ]
+}
